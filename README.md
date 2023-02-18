@@ -1,6 +1,10 @@
-### Hi 👋, I'm Md. Zaber
+<h1 align="center">Hi 👋, I'm Md. Zaber</h1>
+<h3 align="center">A frontend web developer with 2+ years of work experience</h3>
 
-**A frontend web developer with 2+ years of work experience**
+- 🔭 I’m currently working on **A Personal Website using HTML and CSS.**
+- 🌱 I’m currently learning **JavaScript and React.**
+- 💬 Ask me about **HTML, CSS, and Frontend Development.**
+- 📫 How to reach me: **mdzaberalhamid@gmail.com** or **<a href="https://www.linkedin.com/in/md-zaberalhamid/" target="_blank" rel="noreferrer">Linkedin</a>**
 
 <!--
 **mdzaberalhamid/mdzaberalhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
