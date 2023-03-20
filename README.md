@@ -42,13 +42,13 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en&layout=compact" alt="mdzaberalhamid" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en&layout=compact" alt="mdzaberalhamid" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaberalhamid" alt="mdzaberalhamid" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p> -->
 
 <!-- <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
 <h3 align="center">A frontend web developer with 2+ years of work experience</h3>
