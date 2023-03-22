@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<h3 align="center">A frontend web developer with 2+ years of work experience</h3>
+<h3 align="center">Frontend Web Developer | Software Developer | Graphic Web UI/UX Designer</h3>
+<!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaberalhamid&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaberalhamid" /> </p> -->
 
