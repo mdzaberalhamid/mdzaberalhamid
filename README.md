@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<h3 align="center">Frontend Web Developer | Software Developer | Graphic Web UI/UX Designer</h3>
+<h3 align="center">Frontend Web Developer | Software Developer | Web UI/UX Designer</h3>
+<br>
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaberalhamid&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaberalhamid" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzaberalhamid" alt="mdzaberalhamid" /></a> </p> -->
 
-- 🔭 I’m currently working on **Some JavaScript Projects.**
+- 🔭 I’m currently working on **Some Web Projects.**
 
-- 🌱 I’m currently learning **React and Php.**
+- 🌱 I’m currently learning **JavaScript, React and PHP.**
+
+- 👯 I’m looking to collaborate on **Open-Source Projects.**
 
 <!-- - 👨‍💻 All of my projects are available at [https://mdzaberalhamid.wixsite.com/portfolio](mdzaberalhamid.wixsite.com/portfolio) -->
 
-- 💬 Ask me about **HTML, CSS, and Frontend Development.**
+- 💬 Ask me about **Frontend Web Development.**
 
 - 📫 How to reach me **mdzaberalhamid@gmail.com**
 
@@ -51,15 +54,11 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p> -->
 
-<!-- <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<h3 align="center">A frontend web developer with 2+ years of work experience</h3>
 
-- 🔭 I’m currently working on **A Personal Website using HTML and CSS.**
-- 🌱 I’m currently learning **JavaScript and React.**
-- 💬 Ask me about **HTML, CSS, and Frontend Development.**
-- 📫 How to reach me: **mdzaberalhamid@gmail.com** or **<a href="https://www.linkedin.com/in/md-zaberalhamid/" target="_blank" rel="noreferrer">Linkedin</a>**
 
-<h3 align="left">My Skills</h3>
+<!-- - 📫 How to reach me: **mdzaberalhamid@gmail.com** or **<a href="https://www.linkedin.com/in/md-zaberalhamid/" target="_blank" rel="noreferrer">Linkedin</a>** -->
+
+<!-- <h3 align="left">My Skills</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -70,7 +69,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 <!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) -->
 
