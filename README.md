@@ -3,8 +3,6 @@
 <br>
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaberalhamid&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaberalhamid" /> </p> -->
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzaberalhamid" alt="mdzaberalhamid" /></a> </p> -->
 
 - 🔭 I’m currently working on **Some Web Projects.**
@@ -46,9 +44,9 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mdzaberalhamid" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mdzaberalhamid" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaberalhamid" alt="mdzaberalhamid" /></p>
 
