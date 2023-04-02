@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<h3 align="center">Frontend Web Developer | Software Developer | Web UI/UX Designer</h3>
+<h3 align="center">Frontend Web Developer | Software Developer | Web Designer</h3>
 <br>
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Some Web Projects.**
 
-- 🌱 I’m currently learning **JavaScript, React and PHP.**
+- 🌱 I’m currently learning **JavaScript, React, PHP and Python.**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects.**
 
