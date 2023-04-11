@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<h3 align="center">Frontend Web Developer | Software Developer | Web Designer</h3>
-<br>
+<h2 align="center">Frontend Web Developer | Software Developer | Web Designer</h2>
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzaberalhamid" alt="mdzaberalhamid" /></a> </p> -->
 
-- 🔭 I’m currently working on **Some Web Projects.**
+🔭 I’m currently working on **Some Web Projects.**
 
-- 🌱 I’m currently learning **JavaScript, React, PHP and Python.**
+🌱 I’m currently learning **JavaScript, React, PHP and Python.**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects.**
+👯 I’m looking to collaborate on **Open-Source Projects.**
 
 <!-- - 👨‍💻 All of my projects are available at [https://mdzaberalhamid.wixsite.com/portfolio](mdzaberalhamid.wixsite.com/portfolio) -->
 
-- 💬 Ask me about **Frontend Web Development.**
+💬 Ask me about **Frontend Web Development.**
 
-- 📫 How to reach me **mdzaberalhamid@gmail.com**
+📫 How to reach me **mdzaberalhamid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,9 +43,9 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaberalhamid&show_icons=true&locale=en" alt="mdzaberalhamid" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en&layout=compact&langs_count=10" alt="mdzaberalhamid" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaberalhamid&show_icons=true&locale=en&layout=compact&langs_count=10" alt="mdzaberalhamid" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaberalhamid" alt="mdzaberalhamid" /></p>
 
