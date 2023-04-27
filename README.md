@@ -12,7 +12,8 @@
 
 | 💬 Ask me about **Frontend Web Development.**
 
-| 👨‍💻 All of my projects are available at [https://mdzaberalhamid.wixsite.com/portfolio](mdzaberalhamid.wixsite.com/portfolio)
+| 👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** 
+<!-- [https://mdzaberalhamid.wixsite.com/portfolio](mdzaberalhamid.wixsite.com/portfolio) -->
 
 | 📫 How to reach me **mdzaberalhamid@gmail.com**
 
