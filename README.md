@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<h2 align="center">Frontend Web Developer | Software Developer | Web Designer</h2>
+<h3 align="center">Frontend Web Developer | Software Developer | Web Designer</h3>
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzaberalhamid" alt="mdzaberalhamid" /></a> </p> -->
