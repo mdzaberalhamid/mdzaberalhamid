@@ -4,19 +4,18 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzaberalhamid" alt="mdzaberalhamid" /></a> </p> -->
 
-|  🔭 I’m currently working on **Some Web Projects.**
+-🔭 I’m currently working on **Some Web Projects.**
 
-|  🌱 I’m currently learning **JavaScript, PHP and Python.**
+-🌱 I’m currently learning **JavaScript, PHP and Python.**
 
-|  👯 I’m looking to collaborate on **Open-Source Projects.**
+-👯 I’m looking to collaborate on **Open-Source Projects.**
 
-|  💬 Ask me about **Web Design and Web Development.**
+-💬 Ask me about **Web Design and Web Development.**
 
 <!-- |  👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** -->
-|  👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>**
+-👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>**
 
-
-|  📫 How to reach me **mdzaberalhamid@gmail.com**
+-📫 How to reach me **mdzaberalhamid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
