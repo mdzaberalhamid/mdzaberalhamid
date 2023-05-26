@@ -13,7 +13,7 @@
 -💬 Ask me about **Web Design and Web Development.**
 
 <!-- |  👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** -->
--👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>**
+<!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
 
 -📫 How to reach me **mdzaberalhamid@gmail.com**
 
