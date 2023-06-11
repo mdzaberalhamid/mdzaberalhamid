@@ -10,7 +10,7 @@
 
 -👯 I’m looking to collaborate on **Projects.**
 
--💬 Ask me about **Web Design and Web Development.**
+-💬 Ask me about **Web Development.**
 
 -🔭 My Youtube channel: **[Learn with Zaber](https://www.youtube.com/@LearnwithZaber)**
 
