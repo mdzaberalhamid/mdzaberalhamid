@@ -2,11 +2,9 @@
 <h3 align="center">Frontend Web Developer | Software Developer</h3>
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzaberalhamid" alt="mdzaberalhamid" /></a> </p> -->
+-🔭 I’m currently working on **Web Projects.**
 
--🔭 I’m currently working on **Some Web Projects.**
-
--🌱 I’m currently learning **Python.**
+-🌱 I’m currently learning **Python, Django.**
 
 -👯 I’m looking to collaborate on **Projects.**
 
