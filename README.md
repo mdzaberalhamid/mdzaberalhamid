@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer | Software Developer</h3>
 
 <div align="center">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
 ---
 
@@ -11,20 +11,20 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
-- 🔭 I’m currently working on **Web Projects.**
+-🔭 I’m currently working on **Web Projects.**
 
-- 🌱 I’m currently learning **Python, Django.**
+-🌱 I’m currently learning **Python, Django.**
 
 <!--  - 👯 I’m looking to collaborate on **Projects.**  -->
 
-- 💬 Ask me about **Web Development.**
+-💬 Ask me about **Web Development.**
 
-- 🔭 Youtube channel: **[Learn with Zaber](https://www.youtube.com/@LearnwithZaber)**
+-🔭 My Youtube channel: **[Learn with Zaber](https://www.youtube.com/@LearnwithZaber)**
 
 <!-- |  👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** -->
 <!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
 
-- 📫 How to reach me **mdzaberalhamid@gmail.com**
+-📫 How to reach me **mdzaberalhamid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
