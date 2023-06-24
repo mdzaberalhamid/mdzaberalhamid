@@ -2,7 +2,9 @@
 <h3 align="center">Frontend Web Developer | Software Developer</h3>
 
 <div align="center">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" height="220"/>
+<!--         <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/> -->
+        
 </div>
 ---
 
@@ -25,6 +27,11 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 <!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
 
 -📫 How to reach me **mdzaberalhamid@gmail.com**
+
+<br>
+<div align="center">
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,6 +84,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p> -->
+
 
 <!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) -->
 
