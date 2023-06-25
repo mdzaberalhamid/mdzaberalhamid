@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer | Software Developer</h3>
 
 <div align="center">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" height="220"/>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 <!--         <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/> -->
         
 </div>
@@ -27,6 +27,11 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 <!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
 
 -📫 How to reach me **mdzaberalhamid@gmail.com**
+
+<br>
+<p align="left">
+        <img src="https://komarev.com/ghpvc/?username=mdzaberalhamid&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaberalhamid" /> 
+</p>
 
 <br>
 <div align="center">
