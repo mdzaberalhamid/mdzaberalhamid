@@ -30,10 +30,12 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 -💬 Ask me about **Website Development.**
 
--🔭 My Youtube channel: **[Learn with Zaber](https://www.youtube.com/@LearnwithZaber)**
+-🔭 My youtube channel: **[Learn with Zaber](https://www.youtube.com/@LearnwithZaber)**
 
 <!-- |  👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** -->
 <!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
+
+-🌱 My website link: **[mdzaberalhamid](https://mdzaberalhamid.wixsite.com/myweb)**
 
 -📫 How to reach me **mdzaberalhamid@gmail.com**
 
