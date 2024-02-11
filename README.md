@@ -24,7 +24,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 -🔭 I’m currently working on **Web Projects.**
 
--🌱 I’m currently learning **Python & Django.**
+-🌱 I’m currently learning **React & Django.**
 
 <!--  - 👯 I’m looking to collaborate on **Projects.**  -->
 
