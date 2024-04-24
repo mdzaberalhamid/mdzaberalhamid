@@ -1,6 +1,9 @@
+<!-- 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
+
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
 <!-- <h3 align="center">Frontend Web Developer | Software Developer</h3> -->
 
