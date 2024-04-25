@@ -21,7 +21,9 @@
 ---
 
 ### :man_technologist: About Me
-I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I am a Frontend Web Developer from Bangladesh.
+
+<!-- I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. -->
 
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
