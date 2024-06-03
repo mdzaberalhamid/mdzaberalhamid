@@ -42,7 +42,7 @@ I am a Frontend Web Developer from Bangladesh.
 <!-- |  👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** -->
 <!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
 
--🌱 My website live link: **[Click here](https://mdzaberalhamid.wixsite.com/myweb)**
+-🌱 My website live link: **[Click here](https://mdzaberalhamid.github.io/portfolio-website-2/)**
 
 <br>
 <p align="left">
