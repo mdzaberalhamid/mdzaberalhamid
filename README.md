@@ -1,8 +1,7 @@
-<!-- 
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
--->
 
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
 <!-- <h3 align="center">Frontend Web Developer | Software Developer</h3> -->
@@ -41,9 +40,9 @@ I am a Frontend Web Developer from Bangladesh.
 -->
 <!-- |  👨‍💻 All of my projects are available at **https://mdzaberalhamid.wixsite.com/portfolio** -->
 <!-- -👨‍💻 All of my projects are available at **<a href="https://mdzaberalhamid.wixsite.com/portfolio" target=_blank>this Link.</a>** -->
-
+<!--
 -🌱 My website live link: **[Click here](https://mdzaberalhamid.github.io/portfolio-website-2/)**
-
+-->
 <br>
 <p align="left">
         <img src="https://komarev.com/ghpvc/?username=mdzaberalhamid&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaberalhamid" /> 
