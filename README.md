@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<!-- <h3 align="center">Frontend Web Developer | Software Developer</h3> -->
+<!-- <h3 align="center">Data Science Student | Software Developer | Frontend Web Developer</h3> -->
 
 <div align="center">
   
