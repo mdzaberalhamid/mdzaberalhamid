@@ -4,11 +4,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Zaber</h1>
-<!-- <h3 align="center">Data Science Student | Software Developer | Frontend Web Developer</h3> -->
+<!-- <h3 align="center">Frontend Web Developer | Data Science Student</h3> -->
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;Software+Developer)](https://github.com/mdzaberalhamid/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Data+Science+Student;Freelance+Web+Developer;)](https://github.com/mdzaberalhamid/)
 
 </div>
 
@@ -20,19 +20,19 @@
 ---
 
 ### :man_technologist: About Me
-I am a Frontend Web Developer from Bangladesh.
+I am a Data Science Student and Freelance Web Developer based in Denmark.
 
 <!-- I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. -->
 
 <!-- <h3 align="center">A frontend web developer with 2+ years of work experience</h3> -->
 
--🔭 I’m currently working on **Web Projects.**
+-🔭 I’m currently working on **Data Science Projects.**
 
--🌱 I’m currently learning **React & Django.**
+-🌱 I’m currently learning **Data Analysis, Machine Learning & Visualization.**
 
 <!--  - 👯 I’m looking to collaborate on **Projects.**  -->
 
--💬 Ask me about **Website Development.**
+-💬 Ask me about **Data Science & Website Development.**
 
 -📫 How to reach me **mdzaberalhamid@gmail.com**
 <!--
