@@ -34,7 +34,7 @@ I am a Data Science Student and Freelance Web Developer based in Denmark.
 
 -💬 Ask me about **Data Science & Website Development.**
 
--📫 How to reach me **mdzaberalhamid@gmail.com**
+-📫 How to reach me **zaberalhamid@gmail.com**
 <!--
 -🔭 My youtube channel: **[Learn with Zaber](https://www.youtube.com/@LearnwithZaber)**
 -->
