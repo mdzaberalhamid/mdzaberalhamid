@@ -3,12 +3,12 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Md. Zaber</h1>
+<h1 align="center">Hi 👋, I'm Zaber</h1>
 <!-- <h3 align="center">Frontend Web Developer | Data Science Student</h3> -->
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Data+Science+Student;Freelance+Web+Developer;)](https://github.com/mdzaberalhamid/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=MSc+Data+Science+Student;Freelance+Web+Developer;)](https://github.com/mdzaberalhamid/)
 
 </div>
 
