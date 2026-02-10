@@ -28,7 +28,7 @@ I am a Data Science Student and Freelance Web Developer based in Denmark.
 
 -🔭 I’m currently working on **Data Science Projects.**
 
--🌱 I’m currently learning **Data Analysis, Machine Learning & Visualization.**
+-🌱 I’m currently learning **DSA, Machine Learning, and Microsoft Azure.**
 
 <!--  - 👯 I’m looking to collaborate on **Projects.**  -->
 
