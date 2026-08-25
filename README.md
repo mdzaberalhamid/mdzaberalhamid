@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me
-I am a Data Science Student and Freelance Web Developer based in Denmark.
+I am a Data Science Student and Freelance Data Analyst based in Denmark.
 
 <!-- I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. -->
 
